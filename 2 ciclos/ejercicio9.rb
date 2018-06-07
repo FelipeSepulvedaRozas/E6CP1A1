@@ -11,3 +11,12 @@
 </table>
 
 =end
+puts'<table>'
+puts' 	<tbody>'
+puts'  		<tr>'
+puts'	  		<td> 1 </td>'
+puts'	  		<td> 2 </td>'
+puts'	  		<td> 3 </td>'
+puts'  		</tr>'
+puts' 	</tbody>'
+puts'</table>'
